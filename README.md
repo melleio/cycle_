@@ -7,7 +7,7 @@ installation on OpenShift. It defaults to using MySQL, so when creating
 the application you'll want to select and install both MySQL and Cron
 (for running scheduled tasks). 
 
-    rhc app create mycity php-5.4 mysql-5.1 cron CYCLE_DB_NAME=dbName --from-code=git://github.com/melle/cycle_.git
+    rhc app create mycity php-5.4 mysql-5.1 cron CYCLE_DB_NAME=dbName --from-code=git://github.com/melleio/cycle_.git
 
 Setup
 _____
