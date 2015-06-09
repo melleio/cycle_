@@ -54,11 +54,11 @@ Coming Soon!
 Repo layout
 -----------
 
-web/ - The main directory for your cycle_ site.
-libs/ - library files for managing the uploading of data
-api/ - API for cycle_ powered by SilverStripe framework 
-vendor/ - Third party services added via composer 
-.openshift/action_hooks/build - Script that gets run every push, just prior to starting your app  
+web/ - The main directory for your cycle_ site.  
+libs/ - library files for managing the uploading of data  
+api/ - API for cycle_ powered by SilverStripe framework  
+vendor/ - Third party services added via composer  
+.openshift/action_hooks/build - Script that gets run every push, just prior to starting your app   
 
 
 Notes about layout
